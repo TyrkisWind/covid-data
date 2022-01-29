@@ -1,0 +1,6 @@
+covid-variants.csv : contains all data from kaggle of covid cases from all around the world
+select_data.ipynb : creates a csv file containing only data from Slovakia location
+slovakia_data.csv : contains data only form Slovakia region
+slovakia_cleaning.ipynb : cleaning data to final format
+final_data.csv : all data needed to analysis
+vizualization.ipynb : visualizate the data (charts)
